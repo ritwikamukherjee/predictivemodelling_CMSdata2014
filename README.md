@@ -7,10 +7,10 @@ The data set contains two types of providers: individual and organization. We on
 The data was used to predict the "pcp" type of the provider given the existing features in the model. “pcp” has a value of 1 if the provider’s specialty (provider_type) is either “Internal Medicine” or “Family Practice”; “pcp” has a value of 0 if the provider’s specialty (provider_type) is neither “Internal Medicine” nor “Family Practice”
 
 # Workflow
-The code contains extraction, cleaning, and exploration of the data. Followed by modelling the data to predict the class of provider type using features within the data. 
+The code contains extraction, cleaning, and exploration of the data followed by modelling the data to predict the class of provider type using features within the data. 
 
 # Applications
-Data visualization, feature selection and engineering, machine Learning, evaluating model metrics
+Data visualization, feature selection and engineering, machine learning, evaluating model metrics
 
 # Built With
 - [Jupyter Notebook](https://jupyter.org)
